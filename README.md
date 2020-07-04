@@ -1,21 +1,15 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+# Chat Game
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+We also have node _modules folder which is created on running the file and 
+and other are package and package-lock files in your repository
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+HOW TO RUN THE CODE:
+install visual studio coode
+open the folder which u will download from git 
+open new terminal
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
-
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
+and than clone this code to ur own git 
+and than u can run your code in your given browser.
 
 
 
